@@ -43,28 +43,28 @@ class _MyHomePageState extends State<MyHomePage> {
       description: 'Après des études en maths et sciences physique,décide de se lancer.',
       party: 'Union Progressiste',
       imageUrl:
-          'https://primary.jwwb.nl/public/u/z/o/temp-zqvvxldglsdjjfjfqjrv/ftvuaj/16F0F0DB-2EC1-4C84-9C51-3CEFC2240CC9.jpeg',
+          'https://talontalata.bj/upload/images/972300273440001617007285.jpg',
     ),
      Candidate(
       name:'YERIMA ZIME Talata',
       description: 'Après des études en maths et sciences physique,décide de se lancer.',
       party: 'Union Progressiste',
       imageUrl:
-          'https://primary.jwwb.nl/public/u/z/o/temp-zqvvxldglsdjjfjfqjrv/ftvuaj/16F0F0DB-2EC1-4C84-9C51-3CEFC2240CC9.jpeg',
+          'https://talontalata.bj/upload/images/972300273440001617007285.jpg',
     ),
      Candidate(
       name:'YERIMA ZIME Talata',
       description: 'Après des études en maths et sciences physique,décide de se lancer.',
       party: 'Union Progressiste',
       imageUrl:
-          'https://primary.jwwb.nl/public/u/z/o/temp-zqvvxldglsdjjfjfqjrv/ftvuaj/16F0F0DB-2EC1-4C84-9C51-3CEFC2240CC9.jpeg',
+          'https://talontalata.bj/upload/images/972300273440001617007285.jpg',
     ),
      Candidate(
       name:'YERIMA ZIME Talata',
       description: 'Après des études en maths et sciences physique,décide de se lancer.',
       party: 'Union Progressiste',
       imageUrl:
-          'https://primary.jwwb.nl/public/u/z/o/temp-zqvvxldglsdjjfjfqjrv/ftvuaj/16F0F0DB-2EC1-4C84-9C51-3CEFC2240CC9.jpeg',
+          'https://talontalata.bj/upload/images/972300273440001617007285.jpg',
     ),
    
    
